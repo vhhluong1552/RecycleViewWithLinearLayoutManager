@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecycleViewWithLinearLayoutManager</string>
+    <string name="user_name">User name</string>
+</resources>
